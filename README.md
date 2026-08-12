@@ -71,5 +71,4 @@ location.
 - Code (notebooks): [MIT](https://opensource.org/licenses/MIT)
 - Data and figures (`results/`, `figures/`): [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 Reuse is welcome under these terms; please credit this repository and cite
-the pre-registration linked above.please credit this repository and cite
 the pre-registration linked above.
